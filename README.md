@@ -44,9 +44,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Project Objective
-Learn React:.
- Become familiar with React. 
- React Component.
- Component Lifecycle.
+Learn React:<br>
+ Become familiar with React<br> 
+ React Component<br>
+ Component Lifecycle<br>
  
  
